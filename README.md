@@ -64,7 +64,7 @@ As tecnólogias utilizadas para a criação foram..
 
 🔧PHP🔧
 
-<img src="_img/vscode.png" width="30%">
+<img src="_img/images.png" width="30%">
 
 ## Fontes consultadas:
 
