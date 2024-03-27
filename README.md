@@ -30,11 +30,13 @@ final com base nas metas atingidas, exibindo o resultado ao usuário.
 
 - `Calcular Salário`: Calcula o salário final com base nas metas atingidas.
 
- <img src="_img/salario.png" width="40%">>
+ <img src="_img/salario.png" width="40%">
 
 - `Resultados`: Exibe o resultado ao usuário.
 
- <img src="_img/resultado.png" width="40%">>
+ <img src="_img/resultado.png" width="40%">
+
+  <img src="_img/sistemaSalario.mp4" width="40%">
 
 
  
@@ -44,23 +46,23 @@ final com base nas metas atingidas, exibindo o resultado ao usuário.
 
 As tecnólogias utilizadas para a criação foram..
 
-HTML
+🔧HTML🔧
 
 <img src="_img/html.png" width="30%">
 
-CSS
+🔧CSS🔧
 
 <img src="_img/css.png" width="30%">
 
-GitHub
+🔧GitHub🔧
 
 <img src="_img/github.png" width="30%">
 
-Visual Studio Code
+🔧Visual Studio Code🔧
 
 <img src="_img/vscode.png" width="30%">
 
-PHP
+🔧PHP🔧
 
 <img src="_img/vscode.png" width="30%">
 
