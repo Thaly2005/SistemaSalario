@@ -26,15 +26,15 @@ final com base nas metas atingidas, exibindo o resultado ao usuário.
 
 - `Caixas de Resposta`: Solicita o nome do vendedor, a meta semanal e a meta mensal.
 
-  <img src="_img/sabermais.png" width="40%">
+  <img src="_img/resposta.png" width="40%">
 
 - `Calcular Salário`: Calcula o salário final com base nas metas atingidas.
 
- <img src="_img/Início.png" width="40%">>
+ <img src="_img/salario.png" width="40%">>
 
 - `Resultados`: Exibe o resultado ao usuário.
 
- <img src="_img/recursos.png" width="40%">>
+ <img src="_img/resultado.png" width="40%">>
 
 
  
