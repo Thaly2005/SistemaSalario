@@ -36,7 +36,7 @@ final com base nas metas atingidas, exibindo o resultado ao usuário.
 
  <img src="_img/resultado.png" width="40%">
 
-  <img src="_img/sistemaSalario.mp4" width="40%">
+  <img src="_img/sistemaSalario.gif" width="40%">
 
 
  
